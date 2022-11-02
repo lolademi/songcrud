@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\shitt\Desktop\Projects\Zuri\songcrud\venv"
+VIRTUAL_ENV="C:\Users\shitt\Desktop\Projects\Zuri\songcrud\songcrud\venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
